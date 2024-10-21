@@ -1,0 +1,455 @@
+date,host,stadium,match_type,team_1,team_2,team_1_score,team_2_score,winner,margin,margin_type,winning_condition,series,season,season_winner
+2019-05-30,England,The Oval,1st match,England,South Africa,311 for 8,207,England,104,runs,,ICC Cricket World Cup,2019,England
+2019-05-31,England,Nottingham,2nd match,Pakistan,West Indies,105,108 for 3,West Indies,7,wickets,with 218 balls remaining,ICC Cricket World Cup,2019,England
+2019-06-01,England,Cardiff,3rd match,Sri Lanka,New Zealand,136,137 for 0,New Zealand,10,wickets,with 203 balls remaining,ICC Cricket World Cup,2019,England
+2019-06-01,England,Bristol,4th match (D/N),Afghanistan,Australia,207,209 for 3,Australia,7,wickets,with 91 balls remaining,ICC Cricket World Cup,2019,England
+2019-06-02,England,The Oval,5th match,Bangladesh,South Africa,330 for 6,309 for 8,Bangladesh,21,runs,,ICC Cricket World Cup,2019,England
+2019-06-03,England,Nottingham,6th match,Pakistan,England,348 for 8,334 for 9,Pakistan,14,runs,,ICC Cricket World Cup,2019,England
+2019-06-04,England,Cardiff,7th match,Sri Lanka,Afghanistan,201,152,Sri Lanka,34,runs,D/L method,ICC Cricket World Cup,2019,England
+2019-06-05,England,Southampton,8th match,South Africa,India,227 for 9,230 for 4,India,6,wickets,with 15 balls remaining,ICC Cricket World Cup,2019,England
+2019-06-05,England,The Oval,9th match (D/N),Bangladesh,New Zealand,244,248 for 8,New Zealand,2,wickets,with 17 balls remaining,ICC Cricket World Cup,2019,England
+2019-06-06,England,Nottingham,10th match,Australia,West Indies,288,273 for 9,Australia,15,runs,,ICC Cricket World Cup,2019,England
+2019-06-07,England,Bristol,11th match,Pakistan,Sri Lanka,,,Match abandoned without a ball bowled,Match abandoned without a ball bowled,Match abandoned without a ball bowled,,ICC Cricket World Cup,2019,England
+2019-06-08,England,Cardiff,12th match,England,Bangladesh,386 for 6,280,England,106,runs,,ICC Cricket World Cup,2019,England
+2019-06-08,England,Taunton,13th match (D/N),Afghanistan,New Zealand,172,173 for 3,New Zealand,7,wickets,with 107 balls remaining,ICC Cricket World Cup,2019,England
+2019-06-09,England,The Oval,14th match,India,Australia,352 for 5,316,India,36,runs,,ICC Cricket World Cup,2019,England
+2019-06-10,England,Southampton,15th match,South Africa,West Indies,29 for 2,,No result,No result,No result,,ICC Cricket World Cup,2019,England
+2019-06-11,England,Bristol,16th match,Bangladesh,Sri Lanka,,,Match abandoned without a ball bowled,Match abandoned without a ball bowled,Match abandoned without a ball bowled,,ICC Cricket World Cup,2019,England
+2019-06-12,England,Taunton,17th match,Australia,Pakistan,307,266,Australia,41,runs,,ICC Cricket World Cup,2019,England
+2019-06-13,England,Nottingham,18th match,India,New Zealand,,,Match abandoned without a ball bowled,Match abandoned without a ball bowled,Match abandoned without a ball bowled,,ICC Cricket World Cup,2019,England
+2019-06-14,England,Southampton,19th match,West Indies,England,212,213 for 2,England,8,wickets,with 101 balls remaining,ICC Cricket World Cup,2019,England
+2019-06-15,England,The Oval,20th match,Australia,Sri Lanka,334 for 7,247,Australia,87,runs,,ICC Cricket World Cup,2019,England
+2019-06-15,England,Cardiff,21st match (D/N),Afghanistan,South Africa,125,131 for 1,South Africa,9,wickets,D/L method,ICC Cricket World Cup,2019,England
+2019-06-16,England,Manchester,22nd match,India,Pakistan,336 for 5,212 for 6,India,89,runs,D/L method,ICC Cricket World Cup,2019,England
+2019-06-17,England,Taunton,23rd match,West Indies,Bangladesh,321 for 8,322 for 3,Bangladesh,7,wickets,with 51 balls remaining,ICC Cricket World Cup,2019,England
+2019-06-18,England,Manchester,24th match,England,Afghanistan,397 for 6,247 for 8,England,150,runs,,ICC Cricket World Cup,2019,England
+2019-06-19,England,Birmingham,25th match,South Africa,New Zealand,241 for 6,245 for 6,New Zealand,4,wickets,with 3 balls remaining,ICC Cricket World Cup,2019,England
+2019-06-20,England,Nottingham,26th match,Australia,Bangladesh,381 for 5,333 for 8,Australia,48,runs,,ICC Cricket World Cup,2019,England
+2019-06-21,England,Leeds,27th match,Sri Lanka,England,232 for 9,212,Sri Lanka,20,runs,,ICC Cricket World Cup,2019,England
+2019-06-22,England,Southampton,28th match,India,Afghanistan,224 for 8,213,India,11,runs,,ICC Cricket World Cup,2019,England
+2019-06-22,England,Manchester,29th match (D/N),New Zealand,West Indies,291 for 8,286,New Zealand,5,runs,,ICC Cricket World Cup,2019,England
+2019-06-23,England,Lord's,30th match,Pakistan,South Africa,308 for 7,259 for 9,Pakistan,49,runs,,ICC Cricket World Cup,2019,England
+2019-06-24,England,Southampton,31st match,Bangladesh,Afghanistan,262 for 7,200,Bangladesh,62,runs,,ICC Cricket World Cup,2019,England
+2019-06-25,England,Lord's,32nd match,Australia,England,285 for 7,221,Australia,64,runs,,ICC Cricket World Cup,2019,England
+2019-06-26,England,Birmingham,33rd match,New Zealand,Pakistan,237 for 6,241 for 4,Pakistan,6,wickets,with 5 balls remaining,ICC Cricket World Cup,2019,England
+2019-06-27,England,Manchester,34th match,India,West Indies,268 for 7,143,India,125,runs,,ICC Cricket World Cup,2019,England
+2019-06-28,England,Chester-le-Street,35th match,Sri Lanka,South Africa,203,206 for 1,South Africa,9,wickets,with 76 balls remaining,ICC Cricket World Cup,2019,England
+2019-06-29,England,Leeds,36th match,Afghanistan,Pakistan,227 for 9,230 for 7,Pakistan,3,wickets,with 2 balls remaining,ICC Cricket World Cup,2019,England
+2019-06-29,England,Lord's,37th match (D/N),Australia,New Zealand,243 for 9,157,Australia,86,runs,,ICC Cricket World Cup,2019,England
+2019-06-30,England,Birmingham,38th match,England,India,337 for 7,306 for 5,England,31,runs,,ICC Cricket World Cup,2019,England
+1979-06-09,England,Birmingham,1st Match,India,West Indies,190,194 for 1,West Indies,9,wickets,with 51 balls remaining,Prudential World Cup,1979,West Indies
+1979-06-09,England,Nottingham,2nd Match,Sri Lanka,New Zealand,189,190 for 1,New Zealand,9,wickets,with 74 balls remaining,Prudential World Cup,1979,West Indies
+1979-06-09,England,Lord's,3rd Match,Australia,England,159 for 9,160 for 4,England,6,wickets,with 77 balls remaining,Prudential World Cup,1979,West Indies
+1979-06-09,England,Leeds,4th Match,Canada,Pakistan,139 for 9,140 for 2,Pakistan,8,wickets,with 119 balls remaining,Prudential World Cup,1979,West Indies
+1979-06-13,England,The Oval,5th Match,Sri Lanka,West Indies,,,Match abandoned without a ball bowled,Match abandoned without a ball bowled,Match abandoned without a ball bowled,,Prudential World Cup,1979,West Indies
+1979-06-13,England,Leeds,6th Match,India,New Zealand,182,183 for 2,New Zealand,8,wickets,with 18 balls remaining,Prudential World Cup,1979,West Indies
+2019-07-01,England,Chester-le-Street,39th match,Sri Lanka,West Indies,338 for 6,315 for 9,Sri Lanka,23,runs,,ICC Cricket World Cup,2019,England
+2019-07-02,England,Birmingham,40th match,India,Bangladesh,314 for 9,286,India,28,runs,,ICC Cricket World Cup,2019,England
+2019-07-03,England,Chester-le-Street,41st match,England,New Zealand,305 for 8,186,England,119,runs,,ICC Cricket World Cup,2019,England
+2019-07-04,England,Leeds,42nd match,West Indies,Afghanistan,311 for 6,288,West Indies,23,runs,,ICC Cricket World Cup,2019,England
+2019-07-05,England,Lord's,43rd match,Pakistan,Bangladesh,315 for 9,221,Pakistan,94,runs,,ICC Cricket World Cup,2019,England
+2019-07-06,England,Leeds,44th match,Sri Lanka,India,264 for 7,265 for 3,India,7,wickets,with 39 balls remaining,ICC Cricket World Cup,2019,England
+2019-07-06,England,Manchester,45th match (D/N),South Africa,Australia,325 for 6,315,South Africa,10,runs,,ICC Cricket World Cup,2019,England
+2019-07-09,England,Manchester,1st Semi-final,New Zealand,India,239 for 8,221,New Zealand,18,runs,,ICC Cricket World Cup,2019,England
+2019-07-11,England,Birmingham,2nd Semi-final,Australia,England,223,226 for 2,England,8,wickets,with 107 balls remaining,ICC Cricket World Cup,2019,England
+2019-07-14,England,Lord's,Final,New Zealand,England,241 for 8,241,Match tied,Match tied,Match tied,,ICC Cricket World Cup,2019,England
+1979-06-13,England,Nottingham,7th Match,Pakistan,Australia,286 for 7,197,Pakistan,89,runs,,Prudential World Cup,1979,West Indies
+1979-06-13,England,Manchester,8th Match,Canada,England,45,46 for 2,England,8,wickets,with 277 balls remaining,Prudential World Cup,1979,West Indies
+1979-06-16,England,Manchester,9th Match,Sri Lanka,India,238 for 5,191,Sri Lanka,47,runs,,Prudential World Cup,1979,West Indies
+1979-06-16,England,Nottingham,10th Match,West Indies,New Zealand,244 for 7,212 for 9,West Indies,32,runs,,Prudential World Cup,1979,West Indies
+1979-06-16,England,Birmingham,11th Match,Canada,Australia,105,106 for 3,Australia,7,wickets,with 204 balls remaining,Prudential World Cup,1979,West Indies
+1979-06-16,England,Leeds,12th Match,England,Pakistan,165 for 9,151,England,14,runs,,Prudential World Cup,1979,West Indies
+1979-06-20,England,Manchester,1st SF,England,New Zealand,221 for 8,212 for 9,England,9,runs,,Prudential World Cup,1979,West Indies
+1979-06-20,England,The Oval,2nd SF,West Indies,Pakistan,293 for 6,250,West Indies,43,runs,,Prudential World Cup,1979,West Indies
+1979-06-23,England,Lord's,Final,West Indies,England,286 for 9,194,West Indies,92,runs,,Prudential World Cup,1979,West Indies
+1983-06-09,England,The Oval,1st Match,England,New Zealand,322 for 6,216,England,106,runs,,Prudential World Cup,1983,India
+1983-06-09,England,Swansea,2nd Match,Pakistan,Sri Lanka,338 for 5,288 for 9,Pakistan,50,runs,,Prudential World Cup,1983,India
+1983-06-09,England,Nottingham,3rd Match,Zimbabwe,Australia,239 for 6,226 for 7,Zimbabwe,13,runs,,Prudential World Cup,1983,India
+1983-06-09,England,Manchester,4th Match,India,West Indies,262 for 8,228,India,34,runs,,Prudential World Cup,1983,India
+1983-06-11,England,Taunton,5th Match,England,Sri Lanka,333 for 9,286,England,47,runs,,Prudential World Cup,1983,India
+1983-06-11,England,Birmingham,6th Match,New Zealand,Pakistan,238 for 9,186,New Zealand,52,runs,,Prudential World Cup,1983,India
+1983-06-11,England,Leeds,7th Match,West Indies,Australia,252 for 9,151,West Indies,101,runs,,Prudential World Cup,1983,India
+1983-06-11,England,Leicester,8th Match,Zimbabwe,India,155,157 for 5,India,5,wickets,with 135 balls remaining,Prudential World Cup,1983,India
+1983-06-13,England,Worcester,12th Match,Zimbabwe,West Indies,217 for 7,218 for 2,West Indies,8,wickets,with 69 balls remaining,Prudential World Cup,1983,India
+1983-06-13,England,Lord's,9th Match,Pakistan,England,193 for 8,199 for 2,England,8,wickets,with 56 balls remaining,Prudential World Cup,1983,India
+1983-06-13,England,Bristol,10th Match,Sri Lanka,New Zealand,206,209 for 5,New Zealand,5,wickets,with 124 balls remaining,Prudential World Cup,1983,India
+1983-06-13,England,Nottingham,11th Match,Australia,India,320 for 9,158,Australia,162,runs,,Prudential World Cup,1983,India
+1983-06-15,England,Birmingham,13th Match,England,New Zealand,234,238 for 8,New Zealand,2,wickets,with 1 ball remaining,Prudential World Cup,1983,India
+1983-06-15,England,The Oval,14th Match,West Indies,India,282 for 9,216,West Indies,66,runs,,Prudential World Cup,1983,India
+1983-06-16,England,Leeds,15th Match,Pakistan,Sri Lanka,235 for 7,224,Pakistan,11,runs,,Prudential World Cup,1983,India
+1983-06-16,England,Southampton,16th Match,Australia,Zimbabwe,272 for 7,240,Australia,32,runs,,Prudential World Cup,1983,India
+1983-06-18,England,Manchester,17th Match,Pakistan,England,232 for 8,233 for 3,England,7,wickets,with 16 balls remaining,Prudential World Cup,1983,India
+1983-06-18,England,Derby,18th Match,New Zealand,Sri Lanka,181,184 for 7,Sri Lanka,3,wickets,with 43 balls remaining,Prudential World Cup,1983,India
+1983-06-18,England,Lord's,19th Match,Australia,West Indies,273 for 6,276 for 3,West Indies,7,wickets,with 13 balls remaining,Prudential World Cup,1983,India
+1983-06-18,England,Tunbridge Wells,20th Match,India,Zimbabwe,266 for 8,235,India,31,runs,,Prudential World Cup,1983,India
+1983-06-20,England,Chelmsford,23rd Match,India,Australia,247,129,India,118,runs,,Prudential World Cup,1983,India
+1983-06-20,England,Birmingham,24th Match,Zimbabwe,West Indies,171,172 for 0,West Indies,10,wickets,with 89 balls remaining,Prudential World Cup,1983,India
+1983-06-20,England,Leeds,21st Match,Sri Lanka,England,136,137 for 1,England,9,wickets,with 215 balls remaining,Prudential World Cup,1983,India
+1983-06-20,England,Nottingham,22nd Match,Pakistan,New Zealand,261 for 3,250,Pakistan,11,runs,,Prudential World Cup,1983,India
+1983-06-22,England,Manchester,1st SF,England,India,213,217 for 4,India,6,wickets,with 32 balls remaining,Prudential World Cup,1983,India
+1983-06-22,England,The Oval,2nd SF,Pakistan,West Indies,184 for 8,188 for 2,West Indies,8,wickets,with 68 balls remaining,Prudential World Cup,1983,India
+1983-06-25,England,Lord's,Final,India,West Indies,183,140,India,43,runs,,Prudential World Cup,1983,India
+2011-02-19,Bangladesh/India/Sri Lanka,Mirpur,1st Match,India,Bangladesh,370 for 4,283 for 9,India,87,runs,,ICC Cricket World Cup,2010/11,India
+2011-02-20,Bangladesh/India/Sri Lanka,Chennai,2nd Match,Kenya,New Zealand,69,72 for 0,New Zealand,10,wickets,with 252 balls remaining,ICC Cricket World Cup,2010/11,India
+2011-02-20,Bangladesh/India/Sri Lanka,Hambantota,3rd Match,Sri Lanka,Canada,332 for 7,122,Sri Lanka,210,runs,,ICC Cricket World Cup,2010/11,India
+2011-02-21,Bangladesh/India/Sri Lanka,Ahmedabad,4th Match,Australia,Zimbabwe,262 for 6,171,Australia,91,runs,,ICC Cricket World Cup,2010/11,India
+2011-02-22,Bangladesh/India/Sri Lanka,Nagpur,5th Match,Netherlands,England,292 for 6,296 for 4,England,6,wickets,with 8 balls remaining,ICC Cricket World Cup,2010/11,India
+2011-02-23,Bangladesh/India/Sri Lanka,Hambantota,6th Match,Pakistan,Kenya,317 for 7,112,Pakistan,205,runs,,ICC Cricket World Cup,2010/11,India
+2011-02-24,Bangladesh/India/Sri Lanka,Delhi,7th Match,West Indies,South Africa,222,223 for 3,South Africa,7,wickets,with 43 balls remaining,ICC Cricket World Cup,2010/11,India
+2011-02-25,Bangladesh/India/Sri Lanka,Nagpur,8th Match,New Zealand,Australia,206,207 for 3,Australia,7,wickets,with 96 balls remaining,ICC Cricket World Cup,2010/11,India
+2011-02-25,Bangladesh/India/Sri Lanka,Mirpur,9th Match,Bangladesh,Ireland,205,178,Bangladesh,27,runs,,ICC Cricket World Cup,2010/11,India
+2011-02-26,Bangladesh/India/Sri Lanka,Colombo (RPS),10th Match,Pakistan,Sri Lanka,277 for 7,266 for 9,Pakistan,11,runs,,ICC Cricket World Cup,2010/11,India
+2011-02-27,Bangladesh/India/Sri Lanka,Bengaluru,11th Match,India,England,338,338 for 8,Match tied,Match tied,Match tied,,ICC Cricket World Cup,2010/11,India
+2011-02-28,Bangladesh/India/Sri Lanka,Nagpur,12th Match,Zimbabwe,Canada,298 for 9,123,Zimbabwe,175,runs,,ICC Cricket World Cup,2010/11,India
+2011-02-28,Bangladesh/India/Sri Lanka,Delhi,13th Match,West Indies,Netherlands,330 for 8,115,West Indies,215,runs,,ICC Cricket World Cup,2010/11,India
+2011-03-01,Bangladesh/India/Sri Lanka,Colombo (RPS),14th Match,Kenya,Sri Lanka,142,146 for 1,Sri Lanka,9,wickets,with 188 balls remaining,ICC Cricket World Cup,2010/11,India
+2011-03-02,Bangladesh/India/Sri Lanka,Bengaluru,15th Match,England,Ireland,327 for 8,329 for 7,Ireland,3,wickets,with 5 balls remaining,ICC Cricket World Cup,2010/11,India
+2011-03-03,Bangladesh/India/Sri Lanka,Mohali,16th Match,South Africa,Netherlands,351 for 5,120,South Africa,231,runs,,ICC Cricket World Cup,2010/11,India
+2011-03-03,Bangladesh/India/Sri Lanka,Colombo (RPS),17th Match,Pakistan,Canada,184,138,Pakistan,46,runs,,ICC Cricket World Cup,2010/11,India
+2011-03-04,Bangladesh/India/Sri Lanka,Ahmedabad,18th Match,Zimbabwe,New Zealand,162,166 for 0,New Zealand,10,wickets,with 99 balls remaining,ICC Cricket World Cup,2010/11,India
+2011-03-04,Bangladesh/India/Sri Lanka,Mirpur,19th Match,Bangladesh,West Indies,58,59 for 1,West Indies,9,wickets,with 226 balls remaining,ICC Cricket World Cup,2010/11,India
+2011-03-05,Bangladesh/India/Sri Lanka,Colombo (RPS),20th Match,Sri Lanka,Australia,146 for 3,,No result,No result,No result,,ICC Cricket World Cup,2010/11,India
+2011-03-06,Bangladesh/India/Sri Lanka,Chennai,21st Match,England,South Africa,171,165,England,6,runs,,ICC Cricket World Cup,2010/11,India
+2011-03-06,Bangladesh/India/Sri Lanka,Bengaluru,22nd Match,Ireland,India,207,210 for 5,India,5,wickets,with 24 balls remaining,ICC Cricket World Cup,2010/11,India
+2011-03-07,Bangladesh/India/Sri Lanka,Delhi,23rd Match,Kenya,Canada,198,199 for 5,Canada,5,wickets,with 27 balls remaining,ICC Cricket World Cup,2010/11,India
+2011-03-08,Bangladesh/India/Sri Lanka,Pallekele,24th Match,New Zealand,Pakistan,302 for 7,192,New Zealand,110,runs,,ICC Cricket World Cup,2010/11,India
+2011-03-09,Bangladesh/India/Sri Lanka,Delhi,25th Match,Netherlands,India,189,191 for 5,India,5,wickets,with 81 balls remaining,ICC Cricket World Cup,2010/11,India
+2011-03-10,Bangladesh/India/Sri Lanka,Pallekele,26th Match,Sri Lanka,Zimbabwe,327 for 6,188,Sri Lanka,139,runs,,ICC Cricket World Cup,2010/11,India
+2011-03-11,Bangladesh/India/Sri Lanka,Mohali,27th Match,West Indies,Ireland,275,231,West Indies,44,runs,,ICC Cricket World Cup,2010/11,India
+2011-03-11,Bangladesh/India/Sri Lanka,Chattogram,28th Match,England,Bangladesh,225,227 for 8,Bangladesh,2,wickets,with 6 balls remaining,ICC Cricket World Cup,2010/11,India
+2011-03-12,Bangladesh/India/Sri Lanka,Nagpur,29th Match,India,South Africa,296,300 for 7,South Africa,3,wickets,with 2 balls remaining,ICC Cricket World Cup,2010/11,India
+2011-03-13,Bangladesh/India/Sri Lanka,Wankhede,30th Match,New Zealand,Canada,358 for 6,261 for 9,New Zealand,97,runs,,ICC Cricket World Cup,2010/11,India
+2011-03-13,Bangladesh/India/Sri Lanka,Bengaluru,31st Match,Australia,Kenya,324 for 6,264 for 6,Australia,60,runs,,ICC Cricket World Cup,2010/11,India
+2011-03-14,Bangladesh/India/Sri Lanka,Chattogram,32nd Match,Netherlands,Bangladesh,160,166 for 4,Bangladesh,6,wickets,with 52 balls remaining,ICC Cricket World Cup,2010/11,India
+2011-03-14,Bangladesh/India/Sri Lanka,Pallekele,33rd Match,Zimbabwe,Pakistan,151 for 7,164 for 3,Pakistan,7,wickets,D/L method,ICC Cricket World Cup,2010/11,India
+2011-03-15,Bangladesh/India/Sri Lanka,Eden Gardens,34th Match,South Africa,Ireland,272 for 7,141,South Africa,131,runs,,ICC Cricket World Cup,2010/11,India
+2011-03-16,Bangladesh/India/Sri Lanka,Bengaluru,35th Match,Canada,Australia,211,212 for 3,Australia,7,wickets,with 91 balls remaining,ICC Cricket World Cup,2010/11,India
+2011-03-17,Bangladesh/India/Sri Lanka,Chennai,36th Match,England,West Indies,243,225,England,18,runs,,ICC Cricket World Cup,2010/11,India
+2011-03-18,Bangladesh/India/Sri Lanka,Eden Gardens,37th Match,Netherlands,Ireland,306,307 for 4,Ireland,6,wickets,with 14 balls remaining,ICC Cricket World Cup,2010/11,India
+2011-03-18,Bangladesh/India/Sri Lanka,Wankhede,38th Match,Sri Lanka,New Zealand,265 for 9,153,Sri Lanka,112,runs,,ICC Cricket World Cup,2010/11,India
+2011-03-19,Bangladesh/India/Sri Lanka,Mirpur,39th Match,South Africa,Bangladesh,284 for 8,78,South Africa,206,runs,,ICC Cricket World Cup,2010/11,India
+2011-03-19,Bangladesh/India/Sri Lanka,Colombo (RPS),40th Match,Australia,Pakistan,176,178 for 6,Pakistan,4,wickets,with 54 balls remaining,ICC Cricket World Cup,2010/11,India
+2011-03-20,Bangladesh/India/Sri Lanka,Eden Gardens,41st Match,Zimbabwe,Kenya,308 for 6,147,Zimbabwe,161,runs,,ICC Cricket World Cup,2010/11,India
+2011-03-20,Bangladesh/India/Sri Lanka,Chennai,42nd Match,India,West Indies,268,188,India,80,runs,,ICC Cricket World Cup,2010/11,India
+2011-03-23,Bangladesh/India/Sri Lanka,Mirpur,1st Quarter-Final (D/N),West Indies,Pakistan,112,113 for 0,Pakistan,10,wickets,with 175 balls remaining,ICC Cricket World Cup,2010/11,India
+2011-03-24,Bangladesh/India/Sri Lanka,Ahmedabad,2nd Quarter-Final (D/N),Australia,India,260 for 6,261 for 5,India,5,wickets,with 14 balls remaining,ICC Cricket World Cup,2010/11,India
+2003-02-09,Kenya/South Africa/Zimbabwe,Cape Town,1st Match (D/N),West Indies,South Africa,278 for 5,275 for 9,West Indies,3,runs,,ICC World Cup,2002/03,Australia
+2011-03-25,Bangladesh/India/Sri Lanka,Mirpur,3rd Quarter-Final (D/N),New Zealand,South Africa,221 for 8,172,New Zealand,49,runs,,ICC Cricket World Cup,2010/11,India
+2011-03-26,Bangladesh/India/Sri Lanka,Colombo (RPS),4th Quarter-Final (D/N),England,Sri Lanka,229 for 6,231 for 0,Sri Lanka,10,wickets,with 63 balls remaining,ICC Cricket World Cup,2010/11,India
+2011-03-29,Bangladesh/India/Sri Lanka,Colombo (RPS),1st Semi-Final (D/N),New Zealand,Sri Lanka,217,220 for 5,Sri Lanka,5,wickets,with 13 balls remaining,ICC Cricket World Cup,2010/11,India
+2011-03-30,Bangladesh/India/Sri Lanka,Mohali,2nd Semi-Final (D/N),India,Pakistan,260 for 9,231,India,29,runs,,ICC Cricket World Cup,2010/11,India
+2011-04-02,Bangladesh/India/Sri Lanka,Wankhede,Final (D/N),Sri Lanka,India,274 for 6,277 for 4,India,6,wickets,with 10 balls remaining,ICC Cricket World Cup,2010/11,India
+2003-02-10,Kenya/South Africa/Zimbabwe,Harare,2nd Match,Zimbabwe,Namibia,340 for 2,104 for 5,Zimbabwe,86,runs,D/L method,ICC World Cup,2002/03,Australia
+2003-02-10,Kenya/South Africa/Zimbabwe,Bloemfontein,3rd Match,Sri Lanka,New Zealand,272 for 7,225,Sri Lanka,47,runs,,ICC World Cup,2002/03,Australia
+2003-02-11,Kenya/South Africa/Zimbabwe,Johannesburg,4th Match,Australia,Pakistan,310 for 8,228,Australia,82,runs,,ICC World Cup,2002/03,Australia
+2003-02-11,Kenya/South Africa/Zimbabwe,Durban,5th Match (D/N),Canada,Bangladesh,180,120,Canada,60,runs,,ICC World Cup,2002/03,Australia
+2003-02-12,Kenya/South Africa/Zimbabwe,Potchefstroom,6th Match,Kenya,South Africa,140,142 for 0,South Africa,10,wickets,with 172 balls remaining,ICC World Cup,2002/03,Australia
+2003-02-12,Kenya/South Africa/Zimbabwe,Paarl,7th Match,India,Netherlands,204,136,India,68,runs,,ICC World Cup,2002/03,Australia
+2003-02-13,Kenya/South Africa/Zimbabwe,Harare,8th Match,Zimbabwe,England,,,Zimbabwe,Zimbabwe,won,walkover without a ball bowled,ICC World Cup,2002/03,Australia
+2003-02-13,Kenya/South Africa/Zimbabwe,Gqeberha,9th Match,New Zealand,West Indies,241 for 7,221,New Zealand,20,runs,,ICC World Cup,2002/03,Australia
+2003-02-14,Kenya/South Africa/Zimbabwe,Pietermaritzburg,10th Match,Bangladesh,Sri Lanka,124,126 for 0,Sri Lanka,10,wickets,with 173 balls remaining,ICC World Cup,2002/03,Australia
+2003-02-15,Kenya/South Africa/Zimbabwe,Centurion,11th Match,India,Australia,125,128 for 1,Australia,9,wickets,with 166 balls remaining,ICC World Cup,2002/03,Australia
+2003-02-15,Kenya/South Africa/Zimbabwe,Cape Town,12th Match (D/N),Canada,Kenya,197,198 for 6,Kenya,4,wickets,with 9 balls remaining,ICC World Cup,2002/03,Australia
+2003-02-16,Kenya/South Africa/Zimbabwe,East London,13th Match,Netherlands,England,142 for 9,144 for 4,England,6,wickets,with 160 balls remaining,ICC World Cup,2002/03,Australia
+2003-02-16,Kenya/South Africa/Zimbabwe,Kimberley,14th Match,Pakistan,Namibia,255 for 9,84,Pakistan,171,runs,,ICC World Cup,2002/03,Australia
+2003-02-16,Kenya/South Africa/Zimbabwe,Johannesburg,15th Match,South Africa,New Zealand,306 for 6,229 for 1,New Zealand,9,wickets,D/L method,ICC World Cup,2002/03,Australia
+2003-02-18,Kenya/South Africa/Zimbabwe,Benoni,16th Match,West Indies,Bangladesh,244 for 9,32 for 2,No result,No result,No result,,ICC World Cup,2002/03,Australia
+2003-02-19,Kenya/South Africa/Zimbabwe,Harare,17th Match,India,Zimbabwe,255 for 7,172,India,83,runs,,ICC World Cup,2002/03,Australia
+2003-02-19,Kenya/South Africa/Zimbabwe,Paarl,18th Match,Canada,Sri Lanka,36,37 for 1,Sri Lanka,9,wickets,with 272 balls remaining,ICC World Cup,2002/03,Australia
+2003-02-19,Kenya/South Africa/Zimbabwe,Gqeberha,19th Match,England,Namibia,272,217 for 9,England,55,runs,,ICC World Cup,2002/03,Australia
+2003-02-20,Kenya/South Africa/Zimbabwe,Potchefstroom,20th Match,Australia,Netherlands,170 for 2,122,Australia,75,runs,D/L method,ICC World Cup,2002/03,Australia
+2003-02-21,Kenya/South Africa/Zimbabwe,Nairobi (Gym),21st Match,Kenya,New Zealand,,,Kenya,Kenya,won,walkover without a ball bowled,ICC World Cup,2002/03,Australia
+2003-02-22,Kenya/South Africa/Zimbabwe,Bloemfontein,22nd Match,Bangladesh,South Africa,108,109 for 0,South Africa,10,wickets,with 228 balls remaining,ICC World Cup,2002/03,Australia
+2003-02-22,Kenya/South Africa/Zimbabwe,Cape Town,23rd Match (D/N),England,Pakistan,246 for 8,134,England,112,runs,,ICC World Cup,2002/03,Australia
+2003-02-23,Kenya/South Africa/Zimbabwe,Pietermaritzburg,25th Match,India,Namibia,311 for 2,130,India,181,runs,,ICC World Cup,2002/03,Australia
+2003-02-23,Kenya/South Africa/Zimbabwe,Centurion,24th Match,Canada,West Indies,202,206 for 3,West Indies,7,wickets,with 177 balls remaining,ICC World Cup,2002/03,Australia
+2003-02-24,Kenya/South Africa/Zimbabwe,Nairobi (Gym),26th Match,Kenya,Sri Lanka,210 for 9,157,Kenya,53,runs,,ICC World Cup,2002/03,Australia
+2003-02-24,Kenya/South Africa/Zimbabwe,Bulawayo,27th Match,Zimbabwe,Australia,246 for 9,248 for 3,Australia,7,wickets,with 15 balls remaining,ICC World Cup,2002/03,Australia
+2003-02-25,Kenya/South Africa/Zimbabwe,Paarl,28th Match,Pakistan,Netherlands,253 for 9,156,Pakistan,97,runs,,ICC World Cup,2002/03,Australia
+2003-02-26,Kenya/South Africa/Zimbabwe,Kimberley,29th Match,Bangladesh,New Zealand,198 for 7,199 for 3,New Zealand,7,wickets,with 99 balls remaining,ICC World Cup,2002/03,Australia
+2003-02-26,Kenya/South Africa/Zimbabwe,Durban,30th Match (D/N),India,England,250 for 9,168,India,82,runs,,ICC World Cup,2002/03,Australia
+2003-02-27,Kenya/South Africa/Zimbabwe,Potchefstroom,31st Match,Australia,Namibia,301 for 6,45,Australia,256,runs,,ICC World Cup,2002/03,Australia
+2003-02-27,Kenya/South Africa/Zimbabwe,East London,32nd Match,South Africa,Canada,254 for 8,136 for 5,South Africa,118,runs,,ICC World Cup,2002/03,Australia
+2003-02-28,Kenya/South Africa/Zimbabwe,Bulawayo,33rd Match,Zimbabwe,Netherlands,301 for 8,202 for 9,Zimbabwe,99,runs,,ICC World Cup,2002/03,Australia
+2003-02-28,Kenya/South Africa/Zimbabwe,Cape Town,34th Match (D/N),Sri Lanka,West Indies,228 for 6,222 for 9,Sri Lanka,6,runs,,ICC World Cup,2002/03,Australia
+2003-03-01,Kenya/South Africa/Zimbabwe,Johannesburg,35th Match,Kenya,Bangladesh,217 for 7,185,Kenya,32,runs,,ICC World Cup,2002/03,Australia
+2003-03-01,Kenya/South Africa/Zimbabwe,Centurion,36th Match,Pakistan,India,273 for 7,276 for 4,India,6,wickets,with 26 balls remaining,ICC World Cup,2002/03,Australia
+2003-03-02,Kenya/South Africa/Zimbabwe,Gqeberha,37th Match,England,Australia,204 for 8,208 for 8,Australia,2,wickets,with 2 balls remaining,ICC World Cup,2002/03,Australia
+2003-03-03,Kenya/South Africa/Zimbabwe,Benoni,38th Match,Canada,New Zealand,196,197 for 5,New Zealand,5,wickets,with 162 balls remaining,ICC World Cup,2002/03,Australia
+2003-03-03,Kenya/South Africa/Zimbabwe,Bloemfontein,39th Match,Netherlands,Namibia,314 for 4,250,Netherlands,64,runs,,ICC World Cup,2002/03,Australia
+2003-03-03,Kenya/South Africa/Zimbabwe,Durban,40th Match (D/N),Sri Lanka,South Africa,268 for 9,229 for 6,Match tied (D/L method),Match tied (D/L method),Match tied (D/L method),D/L method,ICC World Cup,2002/03,Australia
+2003-03-04,Kenya/South Africa/Zimbabwe,Bulawayo,41st Match,Pakistan,Zimbabwe,73 for 3,,No result,No result,No result,,ICC World Cup,2002/03,Australia
+2003-03-04,Kenya/South Africa/Zimbabwe,Kimberley,42nd Match,West Indies,Kenya,246 for 7,104,West Indies,142,runs,,ICC World Cup,2002/03,Australia
+2003-03-07,Kenya/South Africa/Zimbabwe,Centurion,1st Super,Australia,Sri Lanka,319 for 5,223,Australia,96,runs,,ICC World Cup,2002/03,Australia
+2003-03-07,Kenya/South Africa/Zimbabwe,Cape Town,2nd Super (D/N),Kenya,India,225 for 6,226 for 4,India,6,wickets,with 13 balls remaining,ICC World Cup,2002/03,Australia
+2003-03-08,Kenya/South Africa/Zimbabwe,Bloemfontein,3rd Super,Zimbabwe,New Zealand,252 for 7,253 for 4,New Zealand,6,wickets,with 16 balls remaining,ICC World Cup,2002/03,Australia
+2003-03-10,Kenya/South Africa/Zimbabwe,Johannesburg,4th Super,India,Sri Lanka,292 for 6,109,India,183,runs,,ICC World Cup,2002/03,Australia
+2003-03-11,Kenya/South Africa/Zimbabwe,Gqeberha,5th Super,Australia,New Zealand,208 for 9,112,Australia,96,runs,,ICC World Cup,2002/03,Australia
+2003-03-12,Kenya/South Africa/Zimbabwe,Bloemfontein,6th Super,Zimbabwe,Kenya,133,135 for 3,Kenya,7,wickets,with 144 balls remaining,ICC World Cup,2002/03,Australia
+2003-03-14,Kenya/South Africa/Zimbabwe,Centurion,7th Super,New Zealand,India,146,150 for 3,India,7,wickets,with 56 balls remaining,ICC World Cup,2002/03,Australia
+2003-03-15,Kenya/South Africa/Zimbabwe,East London,8th Super,Sri Lanka,Zimbabwe,256 for 5,182,Sri Lanka,74,runs,,ICC World Cup,2002/03,Australia
+2003-03-15,Kenya/South Africa/Zimbabwe,Durban,9th Super (D/N),Kenya,Australia,174 for 8,178 for 5,Australia,5,wickets,with 112 balls remaining,ICC World Cup,2002/03,Australia
+2003-03-18,Kenya/South Africa/Zimbabwe,Gqeberha,1st SF,Australia,Sri Lanka,212 for 7,123 for 7,Australia,48,runs,D/L method,ICC World Cup,2002/03,Australia
+2003-03-20,Kenya/South Africa/Zimbabwe,Durban,2nd SF (D/N),India,Kenya,270 for 4,179,India,91,runs,,ICC World Cup,2002/03,Australia
+2003-03-23,Kenya/South Africa/Zimbabwe,Johannesburg,Final,Australia,India,359 for 2,234,Australia,125,runs,,ICC World Cup,2002/03,Australia
+1996-02-14,India/Pakistan/Sri Lanka,Ahmedabad,1st Match,New Zealand,England,239 for 6,228 for 9,New Zealand,11,runs,,Wills World Cup,1995/96,Sri Lanka
+1996-02-16,India/Pakistan/Sri Lanka,Rawalpindi,2nd Match,South Africa,United Arab Emirates,321 for 2,152 for 8,South Africa,169,runs,,Wills World Cup,1995/96,Sri Lanka
+1996-02-16,India/Pakistan/Sri Lanka,Hyderabad (Deccan),3rd Match (D/N),Zimbabwe,West Indies,151 for 9,155 for 4,West Indies,6,wickets,with 123 balls remaining,Wills World Cup,1995/96,Sri Lanka
+1996-02-17,India/Pakistan/Sri Lanka,Vadodara,4th Match,New Zealand,Netherlands,307 for 8,188 for 7,New Zealand,119,runs,,Wills World Cup,1995/96,Sri Lanka
+1996-02-17,India/Pakistan/Sri Lanka,Colombo (RPS),5th Match,Sri Lanka,Australia,,,Sri Lanka,Sri,won,walkover without a ball bowled,Wills World Cup,1995/96,Sri Lanka
+1996-02-18,India/Pakistan/Sri Lanka,Cuttack,6th Match,Kenya,India,199 for 6,203 for 3,India,7,wickets,with 49 balls remaining,Wills World Cup,1995/96,Sri Lanka
+1996-02-18,India/Pakistan/Sri Lanka,Peshawar,7th Match,United Arab Emirates,England,136,140 for 2,England,8,wickets,with 90 balls remaining,Wills World Cup,1995/96,Sri Lanka
+1996-02-20,India/Pakistan/Sri Lanka,Faisalabad,8th Match,New Zealand,South Africa,177 for 9,178 for 5,South Africa,5,wickets,with 75 balls remaining,Wills World Cup,1995/96,Sri Lanka
+1996-02-21,India/Pakistan/Sri Lanka,Colombo (SSC),9th Match,Zimbabwe,Sri Lanka,228 for 6,229 for 4,Sri Lanka,6,wickets,with 78 balls remaining,Wills World Cup,1995/96,Sri Lanka
+1996-02-21,India/Pakistan/Sri Lanka,Gwalior,10th Match (D/N),West Indies,India,173,174 for 5,India,5,wickets,with 62 balls remaining,Wills World Cup,1995/96,Sri Lanka
+1996-02-22,India/Pakistan/Sri Lanka,Peshawar,11th Match,England,Netherlands,279 for 4,230 for 6,England,49,runs,,Wills World Cup,1995/96,Sri Lanka
+1992-02-22,Australia/New Zealand,Auckland,1st Match,New Zealand,Australia,248 for 6,211,New Zealand,37,runs,,Benson & Hedges World Cup,1991/92,Pakistan
+1975-06-07,England,Lord's,1st Match,England,India,334 for 4,132 for 3,England,202,runs,,Prudential World Cup,1975,West Indies
+1975-06-07,England,Birmingham,2nd Match,New Zealand,East Africa,309 for 5,128 for 8,New Zealand,181,runs,,Prudential World Cup,1975,West Indies
+1975-06-07,England,Leeds,3rd Match,Australia,Pakistan,278 for 7,205,Australia,73,runs,,Prudential World Cup,1975,West Indies
+1975-06-07,England,Manchester,4th Match,Sri Lanka,West Indies,86,87 for 1,West Indies,9,wickets,with 236 balls remaining,Prudential World Cup,1975,West Indies
+1975-06-11,England,Nottingham,5th Match,England,New Zealand,266 for 6,186,England,80,runs,,Prudential World Cup,1975,West Indies
+1996-02-23,India/Pakistan/Sri Lanka,Visakhapatnam,12th Match,Australia,Kenya,304 for 7,207 for 7,Australia,97,runs,,Wills World Cup,1995/96,Sri Lanka
+1996-02-24,India/Pakistan/Sri Lanka,Gujranwala,13th Match,United Arab Emirates,Pakistan,109 for 9,112 for 1,Pakistan,9,wickets,with 90 balls remaining,Wills World Cup,1995/96,Sri Lanka
+1996-02-25,India/Pakistan/Sri Lanka,Colombo (RPS),15th Match,Sri Lanka,West Indies,,,Sri Lanka,Sri,won,walkover without a ball bowled,Wills World Cup,1995/96,Sri Lanka
+1996-02-25,India/Pakistan/Sri Lanka,Rawalpindi,14th Match,South Africa,England,230,152,South Africa,78,runs,,Wills World Cup,1995/96,Sri Lanka
+1996-02-26,India/Pakistan/Sri Lanka,Patna,16th Match,Zimbabwe,Kenya,45 for 3,,No result,No result,No result,,Wills World Cup,1995/96,Sri Lanka
+1996-02-26,India/Pakistan/Sri Lanka,Lahore,17th Match,Netherlands,Pakistan,145 for 7,151 for 2,Pakistan,8,wickets,with 116 balls remaining,Wills World Cup,1995/96,Sri Lanka
+1996-02-27,India/Pakistan/Sri Lanka,Patna,16th Match,Kenya,Zimbabwe,134,137 for 5,Zimbabwe,5,wickets,with 46 balls remaining,Wills World Cup,1995/96,Sri Lanka
+1996-02-27,India/Pakistan/Sri Lanka,Faisalabad,18th Match,New Zealand,United Arab Emirates,276 for 8,167 for 9,New Zealand,109,runs,,Wills World Cup,1995/96,Sri Lanka
+1996-02-27,India/Pakistan/Sri Lanka,Wankhede,19th Match (D/N),Australia,India,258,242,Australia,16,runs,,Wills World Cup,1995/96,Sri Lanka
+1996-02-29,India/Pakistan/Sri Lanka,Pune,20th Match,Kenya,West Indies,166,93,Kenya,73,runs,,Wills World Cup,1995/96,Sri Lanka
+1996-02-29,India/Pakistan/Sri Lanka,Karachi,21st Match,Pakistan,South Africa,242 for 6,243 for 5,South Africa,5,wickets,with 34 balls remaining,Wills World Cup,1995/96,Sri Lanka
+1996-03-01,India/Pakistan/Sri Lanka,Nagpur,22nd Match,Zimbabwe,Australia,154,158 for 2,Australia,8,wickets,with 84 balls remaining,Wills World Cup,1995/96,Sri Lanka
+1996-03-01,India/Pakistan/Sri Lanka,Lahore,23rd Match,Netherlands,United Arab Emirates,216 for 9,220 for 3,U.A.E.,7,wickets,with 34 balls remaining,Wills World Cup,1995/96,Sri Lanka
+1996-03-02,India/Pakistan/Sri Lanka,Delhi,24th Match,India,Sri Lanka,271 for 3,272 for 4,Sri Lanka,6,wickets,with 8 balls remaining,Wills World Cup,1995/96,Sri Lanka
+1992-02-22,Australia/New Zealand,Perth,2nd Match (D/N),England,India,236 for 9,227,England,9,runs,,Benson & Hedges World Cup,1991/92,Pakistan
+1992-02-23,Australia/New Zealand,New Plymouth,3rd Match,Zimbabwe,Sri Lanka,312 for 4,313 for 7,Sri Lanka,3,wickets,with 4 balls remaining,Benson & Hedges World Cup,1991/92,Pakistan
+1992-02-23,Australia/New Zealand,Melbourne,4th Match,Pakistan,West Indies,220 for 2,221 for 0,West Indies,10,wickets,with 19 balls remaining,Benson & Hedges World Cup,1991/92,Pakistan
+1992-02-25,Australia/New Zealand,Hamilton,5th Match,Sri Lanka,New Zealand,206 for 9,210 for 4,New Zealand,6,wickets,with 10 balls remaining,Benson & Hedges World Cup,1991/92,Pakistan
+1992-02-26,Australia/New Zealand,Sydney,6th Match (D/N),Australia,South Africa,170 for 9,171 for 1,South Africa,9,wickets,with 13 balls remaining,Benson & Hedges World Cup,1991/92,Pakistan
+1992-02-27,Australia/New Zealand,Hobart,7th Match,Pakistan,Zimbabwe,254 for 4,201 for 7,Pakistan,53,runs,,Benson & Hedges World Cup,1991/92,Pakistan
+1992-02-27,Australia/New Zealand,Melbourne,8th Match (D/N),West Indies,England,157,160 for 4,England,6,wickets,with 61 balls remaining,Benson & Hedges World Cup,1991/92,Pakistan
+1992-02-28,Australia/New Zealand,Mackay,9th Match,India,Sri Lanka,1 for 0,,No result,No result,No result,,Benson & Hedges World Cup,1991/92,Pakistan
+1992-02-29,Australia/New Zealand,Auckland,10th Match,South Africa,New Zealand,190 for 7,191 for 3,New Zealand,7,wickets,with 93 balls remaining,Benson & Hedges World Cup,1991/92,Pakistan
+1992-02-29,Australia/New Zealand,Brisbane,11th Match,West Indies,Zimbabwe,264 for 8,189 for 7,West Indies,75,runs,,Benson & Hedges World Cup,1991/92,Pakistan
+1992-03-01,Australia/New Zealand,Brisbane,12th Match,Australia,India,237 for 9,234,Australia,1,run,revised target,Benson & Hedges World Cup,1991/92,Pakistan
+1992-03-01,Australia/New Zealand,Adelaide,13th Match,Pakistan,England,74,24 for 1,No result,No result,No result,,Benson & Hedges World Cup,1991/92,Pakistan
+1992-03-02,Australia/New Zealand,Wellington,14th Match,South Africa,Sri Lanka,195,198 for 7,Sri Lanka,3,wickets,with 1 ball remaining,Benson & Hedges World Cup,1991/92,Pakistan
+1992-03-03,Australia/New Zealand,Napier,15th Match,New Zealand,Zimbabwe,162 for 3,105 for 7,New Zealand,48,runs,revised target,Benson & Hedges World Cup,1991/92,Pakistan
+1975-06-11,England,Leeds,6th Match,East Africa,India,120,123 for 0,India,10,wickets,with 181 balls remaining,Prudential World Cup,1975,West Indies
+1975-06-11,England,The Oval,7th Match,Australia,Sri Lanka,328 for 5,276 for 4,Australia,52,runs,,Prudential World Cup,1975,West Indies
+1975-06-11,England,Birmingham,8th Match,Pakistan,West Indies,266 for 7,267 for 9,West Indies,1,wicket,with 2 balls remaining,Prudential World Cup,1975,West Indies
+1975-06-14,England,Nottingham,12th Match,Pakistan,Sri Lanka,330 for 6,138,Pakistan,192,runs,,Prudential World Cup,1975,West Indies
+1975-06-14,England,Birmingham,9th Match,England,East Africa,290 for 5,94,England,196,runs,,Prudential World Cup,1975,West Indies
+1975-06-14,England,Manchester,10th Match,India,New Zealand,230,233 for 6,New Zealand,4,wickets,with 7 balls remaining,Prudential World Cup,1975,West Indies
+1975-06-14,England,The Oval,11th Match,Australia,West Indies,192,195 for 3,West Indies,7,wickets,with 84 balls remaining,Prudential World Cup,1975,West Indies
+1975-06-18,England,Leeds,1st SF,England,Australia,93,94 for 6,Australia,4,wickets,with 188 balls remaining,Prudential World Cup,1975,West Indies
+1975-06-18,England,The Oval,2nd SF,New Zealand,West Indies,158,159 for 5,West Indies,5,wickets,with 119 balls remaining,Prudential World Cup,1975,West Indies
+1975-06-21,England,Lord's,Final,West Indies,Australia,291 for 8,274,West Indies,17,runs,,Prudential World Cup,1975,West Indies
+1996-03-03,India/Pakistan/Sri Lanka,Karachi,25th Match,England,Pakistan,249 for 9,250 for 3,Pakistan,7,wickets,with 14 balls remaining,Wills World Cup,1995/96,Sri Lanka
+1996-03-04,India/Pakistan/Sri Lanka,Jaipur,26th Match,Australia,West Indies,229 for 6,232 for 6,West Indies,4,wickets,with 7 balls remaining,Wills World Cup,1995/96,Sri Lanka
+1996-03-05,India/Pakistan/Sri Lanka,Rawalpindi,27th Match,South Africa,Netherlands,328 for 3,168 for 8,South Africa,160,runs,,Wills World Cup,1995/96,Sri Lanka
+1996-03-06,India/Pakistan/Sri Lanka,Kanpur,29th Match,India,Zimbabwe,247 for 5,207,India,40,runs,,Wills World Cup,1995/96,Sri Lanka
+1996-03-06,India/Pakistan/Sri Lanka,Kandy,28th Match,Sri Lanka,Kenya,398 for 5,254 for 7,Sri Lanka,144,runs,,Wills World Cup,1995/96,Sri Lanka
+1996-03-06,India/Pakistan/Sri Lanka,Lahore,30th Match,Pakistan,New Zealand,281 for 5,235,Pakistan,46,runs,,Wills World Cup,1995/96,Sri Lanka
+1996-03-09,India/Pakistan/Sri Lanka,Faisalabad,1st QF,England,Sri Lanka,235 for 8,236 for 5,Sri Lanka,5,wickets,with 56 balls remaining,Wills World Cup,1995/96,Sri Lanka
+1996-03-09,India/Pakistan/Sri Lanka,Bengaluru,2nd QF (D/N),India,Pakistan,287 for 8,248 for 9,India,39,runs,,Wills World Cup,1995/96,Sri Lanka
+1996-03-11,India/Pakistan/Sri Lanka,Karachi,3rd QF,West Indies,South Africa,264 for 8,245,West Indies,19,runs,,Wills World Cup,1995/96,Sri Lanka
+1996-03-11,India/Pakistan/Sri Lanka,Chennai,4th QF (D/N),New Zealand,Australia,286 for 9,289 for 4,Australia,6,wickets,with 13 balls remaining,Wills World Cup,1995/96,Sri Lanka
+1996-03-13,India/Pakistan/Sri Lanka,Eden Gardens,1st SF (D/N),Sri Lanka,India,251 for 8,120 for 8,Sri Lanka,default,default,,Wills World Cup,1995/96,Sri Lanka
+1996-03-14,India/Pakistan/Sri Lanka,Mohali,2nd SF (D/N),Australia,West Indies,207 for 8,202,Australia,5,runs,,Wills World Cup,1995/96,Sri Lanka
+1996-03-17,India/Pakistan/Sri Lanka,Lahore,Final (D/N),Australia,Sri Lanka,241 for 7,245 for 3,Sri Lanka,7,wickets,with 22 balls remaining,Wills World Cup,1995/96,Sri Lanka
+1992-03-04,Australia/New Zealand,Sydney,16th Match (D/N),India,Pakistan,216 for 7,173,India,43,runs,,Benson & Hedges World Cup,1991/92,Pakistan
+1992-03-05,Australia/New Zealand,Christchurch,17th Match,South Africa,West Indies,200 for 8,136,South Africa,64,runs,,Benson & Hedges World Cup,1991/92,Pakistan
+1992-03-05,Australia/New Zealand,Sydney,18th Match (D/N),Australia,England,171,173 for 2,England,8,wickets,with 55 balls remaining,Benson & Hedges World Cup,1991/92,Pakistan
+1992-03-07,Australia/New Zealand,Hamilton,19th Match,India,Zimbabwe,203 for 7,104 for 1,India,55,runs,revised target,Benson & Hedges World Cup,1991/92,Pakistan
+1992-03-07,Australia/New Zealand,Adelaide,20th Match,Sri Lanka,Australia,189 for 9,190 for 3,Australia,7,wickets,with 36 balls remaining,Benson & Hedges World Cup,1991/92,Pakistan
+1992-03-08,Australia/New Zealand,Auckland,21st Match,West Indies,New Zealand,203 for 7,206 for 5,New Zealand,5,wickets,with 9 balls remaining,Benson & Hedges World Cup,1991/92,Pakistan
+1992-03-08,Australia/New Zealand,Brisbane,22nd Match,South Africa,Pakistan,211 for 7,173 for 8,South Africa,20,runs,revised target,Benson & Hedges World Cup,1991/92,Pakistan
+1992-03-09,Australia/New Zealand,Ballarat,23rd Match,England,Sri Lanka,280 for 6,174,England,106,runs,,Benson & Hedges World Cup,1991/92,Pakistan
+1992-03-10,Australia/New Zealand,Wellington,24th Match,India,West Indies,197,195 for 5,West Indies,5,wickets,revised target,Benson & Hedges World Cup,1991/92,Pakistan
+1992-03-10,Australia/New Zealand,Canberra,25th Match,Zimbabwe,South Africa,163,164 for 3,South Africa,7,wickets,with 29 balls remaining,Benson & Hedges World Cup,1991/92,Pakistan
+1992-03-11,Australia/New Zealand,Perth,26th Match (D/N),Pakistan,Australia,220 for 9,172,Pakistan,48,runs,,Benson & Hedges World Cup,1991/92,Pakistan
+1992-03-12,Australia/New Zealand,Dunedin,27th Match,India,New Zealand,230 for 6,231 for 6,New Zealand,4,wickets,with 17 balls remaining,Benson & Hedges World Cup,1991/92,Pakistan
+1992-03-12,Australia/New Zealand,Melbourne,28th Match (D/N),South Africa,England,236 for 4,226 for 7,England,3,wickets,revised target,Benson & Hedges World Cup,1991/92,Pakistan
+1992-03-13,Australia/New Zealand,Berri,29th Match,West Indies,Sri Lanka,268 for 8,177 for 9,West Indies,91,runs,,Benson & Hedges World Cup,1991/92,Pakistan
+1992-03-14,Australia/New Zealand,Hobart,30th Match,Australia,Zimbabwe,265 for 6,137,Australia,128,runs,,Benson & Hedges World Cup,1991/92,Pakistan
+1992-03-15,Australia/New Zealand,Wellington,31st Match,England,New Zealand,200 for 8,201 for 3,New Zealand,7,wickets,with 55 balls remaining,Benson & Hedges World Cup,1991/92,Pakistan
+1992-03-15,Australia/New Zealand,Adelaide,32nd Match,India,South Africa,180 for 6,181 for 4,South Africa,6,wickets,with 5 balls remaining,Benson & Hedges World Cup,1991/92,Pakistan
+1992-03-15,Australia/New Zealand,Perth,33rd Match,Sri Lanka,Pakistan,212 for 6,216 for 6,Pakistan,4,wickets,with 5 balls remaining,Benson & Hedges World Cup,1991/92,Pakistan
+1992-03-18,Australia/New Zealand,Christchurch,34th Match,New Zealand,Pakistan,166,167 for 3,Pakistan,7,wickets,with 32 balls remaining,Benson & Hedges World Cup,1991/92,Pakistan
+1992-03-18,Australia/New Zealand,Albury,35th Match,Zimbabwe,England,134,125,Zimbabwe,9,runs,,Benson & Hedges World Cup,1991/92,Pakistan
+1992-03-18,Australia/New Zealand,Melbourne,36th Match (D/N),Australia,West Indies,216 for 6,159,Australia,57,runs,,Benson & Hedges World Cup,1991/92,Pakistan
+1992-03-21,Australia/New Zealand,Auckland,1st SF,New Zealand,Pakistan,262 for 7,264 for 6,Pakistan,4,wickets,with 6 balls remaining,Benson & Hedges World Cup,1991/92,Pakistan
+1992-03-22,Australia/New Zealand,Sydney,2nd SF (D/N),England,South Africa,252 for 6,232 for 6,England,19,runs,revised target,Benson & Hedges World Cup,1991/92,Pakistan
+1992-03-25,Australia/New Zealand,Melbourne,Final (D/N),Pakistan,England,249 for 6,227,Pakistan,22,runs,,Benson & Hedges World Cup,1991/92,Pakistan
+1987-10-08,India/Pakistan,Hyderabad (Sind),1st Match,Pakistan,Sri Lanka,267 for 6,252,Pakistan,15,runs,,Reliance World Cup,1987/88,Australia
+1987-10-09,India/Pakistan,Chennai,3rd Match,Australia,India,270 for 6,269,Australia,1,run,,Reliance World Cup,1987/88,Australia
+1987-10-09,India/Pakistan,Gujranwala,2nd Match,West Indies,England,243 for 7,246 for 8,England,2,wickets,with 3 balls remaining,Reliance World Cup,1987/88,Australia
+1987-10-10,India/Pakistan,Hyderabad (Deccan),4th Match,New Zealand,Zimbabwe,242 for 7,239,New Zealand,3,runs,,Reliance World Cup,1987/88,Australia
+1987-10-12,India/Pakistan,Rawalpindi,5th Match,Pakistan,England,239 for 7,221,Pakistan,18,runs,,Reliance World Cup,1987/88,Australia
+1987-10-13,India/Pakistan,Chennai,6th Match,Australia,Zimbabwe,235 for 9,139,Australia,96,runs,,Reliance World Cup,1987/88,Australia
+1987-10-13,India/Pakistan,Karachi,7th Match,West Indies,Sri Lanka,360 for 4,169 for 4,West Indies,191,runs,,Reliance World Cup,1987/88,Australia
+1987-10-14,India/Pakistan,Bengaluru,8th Match,India,New Zealand,252 for 7,236 for 8,India,16,runs,,Reliance World Cup,1987/88,Australia
+1987-10-16,India/Pakistan,Lahore,9th Match,West Indies,Pakistan,216,217 for 9,Pakistan,1,wicket,with 0 balls remaining,Reliance World Cup,1987/88,Australia
+1987-10-17,India/Pakistan,Wankhede,11th Match,Zimbabwe,India,135,136 for 2,India,8,wickets,with 133 balls remaining,Reliance World Cup,1987/88,Australia
+1987-10-17,India/Pakistan,Peshawar,10th Match,England,Sri Lanka,296 for 4,158 for 8,England,108,runs,revised target,Reliance World Cup,1987/88,Australia
+1987-10-18,India/Pakistan,Indore,12th Match,Australia,New Zealand,199 for 4,196 for 9,Australia,3,runs,,Reliance World Cup,1987/88,Australia
+1987-10-20,India/Pakistan,Karachi,13th Match,England,Pakistan,244 for 9,247 for 3,Pakistan,7,wickets,with 6 balls remaining,Reliance World Cup,1987/88,Australia
+1987-10-21,India/Pakistan,Kanpur,14th Match,West Indies,Sri Lanka,236 for 8,211 for 8,West Indies,25,runs,,Reliance World Cup,1987/88,Australia
+1987-10-22,India/Pakistan,Delhi,15th Match,India,Australia,289 for 6,233,India,56,runs,,Reliance World Cup,1987/88,Australia
+1987-10-23,India/Pakistan,Eden Gardens,16th Match,Zimbabwe,New Zealand,227 for 5,228 for 6,New Zealand,4,wickets,with 14 balls remaining,Reliance World Cup,1987/88,Australia
+1987-10-25,India/Pakistan,Faisalabad,17th Match,Pakistan,Sri Lanka,297 for 7,184 for 8,Pakistan,113,runs,,Reliance World Cup,1987/88,Australia
+1987-10-26,India/Pakistan,Jaipur,18th Match,England,West Indies,269 for 5,235,England,34,runs,,Reliance World Cup,1987/88,Australia
+1987-10-26,India/Pakistan,Ahmedabad,19th Match,Zimbabwe,India,191 for 7,194 for 3,India,7,wickets,with 48 balls remaining,Reliance World Cup,1987/88,Australia
+1987-10-27,India/Pakistan,Chandigarh,20th Match,Australia,New Zealand,251 for 8,234,Australia,17,runs,,Reliance World Cup,1987/88,Australia
+1987-10-30,India/Pakistan,Cuttack,21st Match,Australia,Zimbabwe,266 for 5,196 for 6,Australia,70,runs,,Reliance World Cup,1987/88,Australia
+1987-10-30,India/Pakistan,Pune,22nd Match,Sri Lanka,England,218 for 7,219 for 2,England,8,wickets,with 52 balls remaining,Reliance World Cup,1987/88,Australia
+1987-10-30,India/Pakistan,Karachi,23rd Match,West Indies,Pakistan,258 for 7,230 for 9,West Indies,28,runs,,Reliance World Cup,1987/88,Australia
+1987-10-31,India/Pakistan,Nagpur,24th Match,New Zealand,India,221 for 9,224 for 1,India,9,wickets,with 107 balls remaining,Reliance World Cup,1987/88,Australia
+1987-11-04,India/Pakistan,Lahore,1st SF,Australia,Pakistan,267 for 8,249,Australia,18,runs,,Reliance World Cup,1987/88,Australia
+1987-11-05,India/Pakistan,Wankhede,2nd SF,England,India,254 for 6,219,England,35,runs,,Reliance World Cup,1987/88,Australia
+1987-11-08,India/Pakistan,Eden Gardens,Final,Australia,England,253 for 5,246 for 8,Australia,7,runs,,Reliance World Cup,1987/88,Australia
+1999-05-14,England/Ireland/Netherlands/Scotland,Lord's,1st Match,Sri Lanka,England,204,207 for 2,England,8,wickets,with 19 balls remaining,ICC World Cup,1999,Australia
+1999-05-15,England/Ireland/Netherlands/Scotland,Hove,2nd Match,India,South Africa,253 for 5,254 for 6,South Africa,4,wickets,with 16 balls remaining,ICC World Cup,1999,Australia
+1999-05-15,England/Ireland/Netherlands/Scotland,Taunton,3rd Match,Kenya,Zimbabwe,229 for 7,231 for 5,Zimbabwe,5,wickets,with 54 balls remaining,ICC World Cup,1999,Australia
+1999-05-16,England/Ireland/Netherlands/Scotland,Worcester,4th Match,Scotland,Australia,181 for 7,182 for 4,Australia,6,wickets,with 31 balls remaining,ICC World Cup,1999,Australia
+1999-05-16,England/Ireland/Netherlands/Scotland,Bristol,5th Match,Pakistan,West Indies,229 for 8,202,Pakistan,27,runs,,ICC World Cup,1999,Australia
+1999-05-17,England/Ireland/Netherlands/Scotland,Chelmsford,6th Match,Bangladesh,New Zealand,116,117 for 4,New Zealand,6,wickets,with 102 balls remaining,ICC World Cup,1999,Australia
+1999-05-18,England/Ireland/Netherlands/Scotland,Canterbury,7th Match,Kenya,England,203,204 for 1,England,9,wickets,with 66 balls remaining,ICC World Cup,1999,Australia
+1999-05-19,England/Ireland/Netherlands/Scotland,Leicester,8th Match,Zimbabwe,India,252 for 9,249,Zimbabwe,3,runs,,ICC World Cup,1999,Australia
+1999-05-19,England/Ireland/Netherlands/Scotland,Northampton,9th Match,South Africa,Sri Lanka,199 for 9,110,South Africa,89,runs,,ICC World Cup,1999,Australia
+1999-05-20,England/Ireland/Netherlands/Scotland,Cardiff,10th Match,Australia,New Zealand,213 for 8,214 for 5,New Zealand,5,wickets,with 28 balls remaining,ICC World Cup,1999,Australia
+1999-05-20,England/Ireland/Netherlands/Scotland,Chester-le-Street,11th Match,Pakistan,Scotland,261 for 6,167,Pakistan,94,runs,,ICC World Cup,1999,Australia
+1999-05-21,England/Ireland/Netherlands/Scotland,Dublin,12th Match,Bangladesh,West Indies,182,183 for 3,West Indies,7,wickets,with 21 balls remaining,ICC World Cup,1999,Australia
+1999-05-22,England/Ireland/Netherlands/Scotland,The Oval,13th Match,South Africa,England,225 for 7,103,South Africa,122,runs,,ICC World Cup,1999,Australia
+1999-05-22,England/Ireland/Netherlands/Scotland,Worcester,14th Match,Zimbabwe,Sri Lanka,197 for 9,198 for 6,Sri Lanka,4,wickets,with 24 balls remaining,ICC World Cup,1999,Australia
+1999-05-23,England/Ireland/Netherlands/Scotland,Bristol,15th Match,India,Kenya,329 for 2,235 for 7,India,94,runs,,ICC World Cup,1999,Australia
+1999-05-23,England/Ireland/Netherlands/Scotland,Leeds,16th Match,Pakistan,Australia,275 for 8,265,Pakistan,10,runs,,ICC World Cup,1999,Australia
+1999-05-24,England/Ireland/Netherlands/Scotland,Edinburgh,17th Match,Bangladesh,Scotland,185 for 9,163,Bangladesh,22,runs,,ICC World Cup,1999,Australia
+1999-05-24,England/Ireland/Netherlands/Scotland,Southampton,18th Match,New Zealand,West Indies,156,158 for 3,West Indies,7,wickets,with 34 balls remaining,ICC World Cup,1999,Australia
+1999-05-25,England/Ireland/Netherlands/Scotland,Nottingham,19th Match,Zimbabwe,England,167 for 8,168 for 3,England,7,wickets,with 69 balls remaining,ICC World Cup,1999,Australia
+1999-05-26,England/Ireland/Netherlands/Scotland,Amstelveen,20th Match,Kenya,South Africa,152,153 for 3,South Africa,7,wickets,with 54 balls remaining,ICC World Cup,1999,Australia
+1999-05-26,England/Ireland/Netherlands/Scotland,Taunton,21st Match,India,Sri Lanka,373 for 6,216,India,157,runs,,ICC World Cup,1999,Australia
+1999-05-27,England/Ireland/Netherlands/Scotland,Leicester,23rd Match,Scotland,West Indies,68,70 for 2,West Indies,8,wickets,with 239 balls remaining,ICC World Cup,1999,Australia
+1999-05-27,England/Ireland/Netherlands/Scotland,Chester-le-Street,22nd Match,Bangladesh,Australia,178 for 7,181 for 3,Australia,7,wickets,with 181 balls remaining,ICC World Cup,1999,Australia
+1999-05-28,England/Ireland/Netherlands/Scotland,Derby,24th Match,Pakistan,New Zealand,269 for 8,207 for 8,Pakistan,62,runs,,ICC World Cup,1999,Australia
+1999-05-29,England/Ireland/Netherlands/Scotland,Birmingham,25th Match,India,England,232 for 8,169,India,63,runs,,ICC World Cup,1999,Australia
+1999-05-29,England/Ireland/Netherlands/Scotland,Chelmsford,26th Match,Zimbabwe,South Africa,233 for 6,185,Zimbabwe,48,runs,,ICC World Cup,1999,Australia
+1999-05-30,England/Ireland/Netherlands/Scotland,Southampton,27th Match,Sri Lanka,Kenya,275 for 8,230 for 6,Sri Lanka,45,runs,,ICC World Cup,1999,Australia
+1999-05-30,England/Ireland/Netherlands/Scotland,Manchester,28th Match,West Indies,Australia,110,111 for 4,Australia,6,wickets,with 56 balls remaining,ICC World Cup,1999,Australia
+1999-05-31,England/Ireland/Netherlands/Scotland,Northampton,29th Match,Bangladesh,Pakistan,223 for 9,161,Bangladesh,62,runs,,ICC World Cup,1999,Australia
+1999-05-31,England/Ireland/Netherlands/Scotland,Edinburgh,30th Match,Scotland,New Zealand,121,123 for 4,New Zealand,6,wickets,with 193 balls remaining,ICC World Cup,1999,Australia
+1999-06-04,England/Ireland/Netherlands/Scotland,The Oval,1st Super,Australia,India,282 for 6,205,Australia,77,runs,,ICC World Cup,1999,Australia
+1999-06-05,England/Ireland/Netherlands/Scotland,Nottingham,2nd Super,Pakistan,South Africa,220 for 7,221 for 7,South Africa,3,wickets,with 6 balls remaining,ICC World Cup,1999,Australia
+1999-06-06,England/Ireland/Netherlands/Scotland,Leeds,3rd Super,Zimbabwe,New Zealand,175,70 for 3,No result,No result,No result,,ICC World Cup,1999,Australia
+1999-06-08,England/Ireland/Netherlands/Scotland,Manchester,4th Super,India,Pakistan,227 for 6,180,India,47,runs,,ICC World Cup,1999,Australia
+1999-06-09,England/Ireland/Netherlands/Scotland,Lord's,5th Super,Australia,Zimbabwe,303 for 4,259 for 6,Australia,44,runs,,ICC World Cup,1999,Australia
+1999-06-10,England/Ireland/Netherlands/Scotland,Birmingham,6th Super,South Africa,New Zealand,287 for 5,213 for 8,South Africa,74,runs,,ICC World Cup,1999,Australia
+1999-06-11,England/Ireland/Netherlands/Scotland,The Oval,7th Super,Pakistan,Zimbabwe,271 for 9,123,Pakistan,148,runs,,ICC World Cup,1999,Australia
+1999-06-12,England/Ireland/Netherlands/Scotland,Nottingham,8th Super,India,New Zealand,251 for 6,253 for 5,New Zealand,5,wickets,with 10 balls remaining,ICC World Cup,1999,Australia
+1999-06-13,England/Ireland/Netherlands/Scotland,Leeds,9th Super,South Africa,Australia,271 for 7,272 for 5,Australia,5,wickets,with 2 balls remaining,ICC World Cup,1999,Australia
+1999-06-16,England/Ireland/Netherlands/Scotland,Manchester,1st SF,New Zealand,Pakistan,241 for 7,242 for 1,Pakistan,9,wickets,with 15 balls remaining,ICC World Cup,1999,Australia
+1999-06-17,England/Ireland/Netherlands/Scotland,Birmingham,2nd SF,Australia,South Africa,213,213,Match tied,Match tied,Match tied,,ICC World Cup,1999,Australia
+1999-06-20,England/Ireland/Netherlands/Scotland,Lord's,Final,Pakistan,Australia,132,133 for 2,Australia,8,wickets,with 179 balls remaining,ICC World Cup,1999,Australia
+2015-02-14,Australia/New Zealand,Christchurch,1st Match,New Zealand,Sri Lanka,331 for 6,233,New Zealand,98,runs,,ICC Cricket World Cup,2014/15,Australia
+2015-02-14,Australia/New Zealand,Melbourne,2nd Match,Australia,England,342 for 9,231,Australia,111,runs,,ICC Cricket World Cup,2014/15,Australia
+2015-02-15,Australia/New Zealand,Hamilton,3rd Match,South Africa,Zimbabwe,339 for 4,277,South Africa,62,runs,,ICC Cricket World Cup,2014/15,Australia
+2015-02-15,Australia/New Zealand,Adelaide,4th Match,India,Pakistan,300 for 7,224,India,76,runs,,ICC Cricket World Cup,2014/15,Australia
+2015-02-16,Australia/New Zealand,Nelson,5th Match,West Indies,Ireland,304 for 7,307 for 6,Ireland,4,wickets,with 25 balls remaining,ICC Cricket World Cup,2014/15,Australia
+2015-02-17,Australia/New Zealand,Dunedin,6th Match,Scotland,New Zealand,142,146 for 7,New Zealand,3,wickets,with 151 balls remaining,ICC Cricket World Cup,2014/15,Australia
+2015-02-18,Australia/New Zealand,Canberra,7th Match,Bangladesh,Afghanistan,267,162,Bangladesh,105,runs,,ICC Cricket World Cup,2014/15,Australia
+2015-02-19,Australia/New Zealand,Nelson,8th Match,United Arab Emirates,Zimbabwe,285 for 7,286 for 6,Zimbabwe,4,wickets,with 12 balls remaining,ICC Cricket World Cup,2014/15,Australia
+2015-02-20,Australia/New Zealand,Wellington,9th Match,England,New Zealand,123,125 for 2,New Zealand,8,wickets,with 226 balls remaining,ICC Cricket World Cup,2014/15,Australia
+2015-02-21,Australia/New Zealand,Christchurch,10th Match,West Indies,Pakistan,310 for 6,160,West Indies,150,runs,,ICC Cricket World Cup,2014/15,Australia
+2015-02-21,Australia/New Zealand,Brisbane,11th Match,Australia,Bangladesh,,,Match abandoned without a ball bowled,Match abandoned without a ball bowled,Match abandoned without a ball bowled,,ICC Cricket World Cup,2014/15,Australia
+2015-02-22,Australia/New Zealand,Dunedin,12th Match,Afghanistan,Sri Lanka,232,236 for 6,Sri Lanka,4,wickets,with 10 balls remaining,ICC Cricket World Cup,2014/15,Australia
+2015-02-22,Australia/New Zealand,Melbourne,13th Match,India,South Africa,307 for 7,177,India,130,runs,,ICC Cricket World Cup,2014/15,Australia
+2015-02-23,Australia/New Zealand,Christchurch,14th Match,England,Scotland,303 for 8,184,England,119,runs,,ICC Cricket World Cup,2014/15,Australia
+2015-02-24,Australia/New Zealand,Canberra,15th Match,West Indies,Zimbabwe,372 for 2,289,West Indies,73,runs,D/L method,ICC Cricket World Cup,2014/15,Australia
+2015-02-25,Australia/New Zealand,Brisbane,16th Match,United Arab Emirates,Ireland,278 for 9,279 for 8,Ireland,2,wickets,with 4 balls remaining,ICC Cricket World Cup,2014/15,Australia
+2015-02-26,Australia/New Zealand,Dunedin,17th Match,Scotland,Afghanistan,210,211 for 9,Afghanistan,1,wicket,with 3 balls remaining,ICC Cricket World Cup,2014/15,Australia
+2015-02-26,Australia/New Zealand,Melbourne,18th Match,Sri Lanka,Bangladesh,332 for 1,240,Sri Lanka,92,runs,,ICC Cricket World Cup,2014/15,Australia
+2015-02-27,Australia/New Zealand,Sydney,19th Match,South Africa,West Indies,408 for 5,151,South Africa,257,runs,,ICC Cricket World Cup,2014/15,Australia
+2015-02-28,Australia/New Zealand,Auckland,20th Match,Australia,New Zealand,151,152 for 9,New Zealand,1,wicket,with 161 balls remaining,ICC Cricket World Cup,2014/15,Australia
+2015-02-28,Australia/New Zealand,Perth,21st Match,United Arab Emirates,India,102,104 for 1,India,9,wickets,with 187 balls remaining,ICC Cricket World Cup,2014/15,Australia
+2015-03-01,Australia/New Zealand,Wellington,22nd Match,England,Sri Lanka,309 for 6,312 for 1,Sri Lanka,9,wickets,with 16 balls remaining,ICC Cricket World Cup,2014/15,Australia
+2015-03-01,Australia/New Zealand,Brisbane,23rd Match,Pakistan,Zimbabwe,235 for 7,215,Pakistan,20,runs,,ICC Cricket World Cup,2014/15,Australia
+2015-03-03,Australia/New Zealand,Canberra,24th Match,South Africa,Ireland,411 for 4,210,South Africa,201,runs,,ICC Cricket World Cup,2014/15,Australia
+2015-03-04,Australia/New Zealand,Napier,25th Match,Pakistan,United Arab Emirates,339 for 6,210 for 8,Pakistan,129,runs,,ICC Cricket World Cup,2014/15,Australia
+2015-03-04,Australia/New Zealand,Perth,26th Match,Australia,Afghanistan,417 for 6,142,Australia,275,runs,,ICC Cricket World Cup,2014/15,Australia
+2015-03-05,Australia/New Zealand,Nelson,27th Match,Scotland,Bangladesh,318 for 8,322 for 4,Bangladesh,6,wickets,with 11 balls remaining,ICC Cricket World Cup,2014/15,Australia
+2015-03-06,Australia/New Zealand,Perth,28th Match,West Indies,India,182,185 for 6,India,4,wickets,with 65 balls remaining,ICC Cricket World Cup,2014/15,Australia
+2015-03-07,Australia/New Zealand,Auckland,29th Match,Pakistan,South Africa,222,202,Pakistan,29,runs,D/L method,ICC Cricket World Cup,2014/15,Australia
+2015-03-07,Australia/New Zealand,Hobart,30th Match,Ireland,Zimbabwe,331 for 8,326,Ireland,5,runs,,ICC Cricket World Cup,2014/15,Australia
+2015-03-08,Australia/New Zealand,Napier,31st Match,Afghanistan,New Zealand,186,188 for 4,New Zealand,6,wickets,with 83 balls remaining,ICC Cricket World Cup,2014/15,Australia
+2015-03-08,Australia/New Zealand,Sydney,32nd Match,Australia,Sri Lanka,376 for 9,312,Australia,64,runs,,ICC Cricket World Cup,2014/15,Australia
+2015-03-09,Australia/New Zealand,Adelaide,33rd Match,Bangladesh,England,275 for 7,260,Bangladesh,15,runs,,ICC Cricket World Cup,2014/15,Australia
+2015-03-10,Australia/New Zealand,Hamilton,34th Match,Ireland,India,259,260 for 2,India,8,wickets,with 79 balls remaining,ICC Cricket World Cup,2014/15,Australia
+2015-03-11,Australia/New Zealand,Hobart,35th Match,Sri Lanka,Scotland,363 for 9,215,Sri Lanka,148,runs,,ICC Cricket World Cup,2014/15,Australia
+2015-03-12,Australia/New Zealand,Wellington,36th Match,South Africa,United Arab Emirates,341 for 6,195,South Africa,146,runs,,ICC Cricket World Cup,2014/15,Australia
+2015-03-13,Australia/New Zealand,Hamilton,37th Match,Bangladesh,New Zealand,288 for 7,290 for 7,New Zealand,3,wickets,with 7 balls remaining,ICC Cricket World Cup,2014/15,Australia
+2015-03-13,Australia/New Zealand,Sydney,38th Match,Afghanistan,England,111 for 7,101 for 1,England,9,wickets,D/L method,ICC Cricket World Cup,2014/15,Australia
+2015-03-14,Australia/New Zealand,Auckland,39th Match,Zimbabwe,India,287,288 for 4,India,6,wickets,with 8 balls remaining,ICC Cricket World Cup,2014/15,Australia
+2015-03-14,Australia/New Zealand,Hobart,40th Match,Scotland,Australia,130,133 for 3,Australia,7,wickets,with 208 balls remaining,ICC Cricket World Cup,2014/15,Australia
+2015-03-15,Australia/New Zealand,Napier,41st Match,United Arab Emirates,West Indies,175,176 for 4,West Indies,6,wickets,with 117 balls remaining,ICC Cricket World Cup,2014/15,Australia
+2015-03-15,Australia/New Zealand,Adelaide,42nd Match,Ireland,Pakistan,237,241 for 3,Pakistan,7,wickets,with 23 balls remaining,ICC Cricket World Cup,2014/15,Australia
+2015-03-18,Australia/New Zealand,Sydney,1st Quarter-Final (D/N),Sri Lanka,South Africa,133,134 for 1,South Africa,9,wickets,with 192 balls remaining,ICC Cricket World Cup,2014/15,Australia
+2015-03-19,Australia/New Zealand,Melbourne,2nd Quarter-Final (D/N),India,Bangladesh,302 for 6,193,India,109,runs,,ICC Cricket World Cup,2014/15,Australia
+2015-03-20,Australia/New Zealand,Adelaide,3rd Quarter-Final (D/N),Pakistan,Australia,213,216 for 4,Australia,6,wickets,with 97 balls remaining,ICC Cricket World Cup,2014/15,Australia
+2015-03-21,Australia/New Zealand,Wellington,4th Quarter-Final (D/N),New Zealand,West Indies,393 for 6,250,New Zealand,143,runs,,ICC Cricket World Cup,2014/15,Australia
+2015-03-24,Australia/New Zealand,Auckland,1st Semi-Final (D/N),South Africa,New Zealand,281 for 5,299 for 6,New Zealand,4,wickets,D/L method,ICC Cricket World Cup,2014/15,Australia
+2015-03-26,Australia/New Zealand,Sydney,2nd Semi-Final (D/N),Australia,India,328 for 7,233,Australia,95,runs,,ICC Cricket World Cup,2014/15,Australia
+2015-03-29,Australia/New Zealand,Melbourne,Final (D/N),New Zealand,Australia,183,186 for 3,Australia,7,wickets,with 101 balls remaining,ICC Cricket World Cup,2014/15,Australia
+2007-03-13,West Indies,Kingston,1st Match,West Indies,Pakistan,241 for 9,187,West Indies,54,runs,,ICC World Cup,2006/07,Australia
+2007-03-14,West Indies,Basseterre,2nd Match,Australia,Scotland,334 for 6,131,Australia,203,runs,,ICC World Cup,2006/07,Australia
+2007-03-14,West Indies,Gros Islet,3rd Match,Canada,Kenya,199,203 for 3,Kenya,7,wickets,with 40 balls remaining,ICC World Cup,2006/07,Australia
+2007-03-15,West Indies,Port of Spain,4th Match,Sri Lanka,Bermuda,321 for 6,78,Sri Lanka,243,runs,,ICC World Cup,2006/07,Australia
+2007-03-15,West Indies,Kingston,5th Match,Ireland,Zimbabwe,221 for 9,221,Match tied,Match tied,Match tied,,ICC World Cup,2006/07,Australia
+2007-03-16,West Indies,Basseterre,7th Match,South Africa,Netherlands,353 for 3,132 for 9,South Africa,221,runs,,ICC World Cup,2006/07,Australia
+2007-03-16,West Indies,Gros Islet,6th Match,England,New Zealand,209 for 7,210 for 4,New Zealand,6,wickets,with 54 balls remaining,ICC World Cup,2006/07,Australia
+2007-03-17,West Indies,Port of Spain,8th Match,India,Bangladesh,191,192 for 5,Bangladesh,5,wickets,with 9 balls remaining,ICC World Cup,2006/07,Australia
+2007-03-17,West Indies,Kingston,9th Match,Pakistan,Ireland,132,133 for 7,Ireland,3,wickets,D/L method,ICC World Cup,2006/07,Australia
+2007-03-18,West Indies,Basseterre,10th Match,Australia,Netherlands,358 for 5,129,Australia,229,runs,,ICC World Cup,2006/07,Australia
+2007-03-18,West Indies,Gros Islet,11th Match,England,Canada,279 for 6,228 for 7,England,51,runs,,ICC World Cup,2006/07,Australia
+2007-03-19,West Indies,Port of Spain,12th Match,India,Bermuda,413 for 5,156,India,257,runs,,ICC World Cup,2006/07,Australia
+2007-03-19,West Indies,Kingston,13th Match,Zimbabwe,West Indies,202 for 5,204 for 4,West Indies,6,wickets,with 13 balls remaining,ICC World Cup,2006/07,Australia
+2007-03-20,West Indies,Basseterre,15th Match,Scotland,South Africa,186 for 8,188 for 3,South Africa,7,wickets,with 160 balls remaining,ICC World Cup,2006/07,Australia
+2007-03-20,West Indies,Gros Islet,14th Match,New Zealand,Kenya,331 for 7,183,New Zealand,148,runs,,ICC World Cup,2006/07,Australia
+2007-03-21,West Indies,Port of Spain,16th Match,Sri Lanka,Bangladesh,318 for 4,112,Sri Lanka,198,runs,D/L method,ICC World Cup,2006/07,Australia
+2007-03-21,West Indies,Kingston,17th Match,Pakistan,Zimbabwe,349,99,Pakistan,93,runs,D/L method,ICC World Cup,2006/07,Australia
+2007-03-22,West Indies,Basseterre,19th Match,Scotland,Netherlands,136,140 for 2,Netherlands,8,wickets,with 157 balls remaining,ICC World Cup,2006/07,Australia
+2007-03-22,West Indies,Gros Islet,18th Match,New Zealand,Canada,363 for 5,249,New Zealand,114,runs,,ICC World Cup,2006/07,Australia
+2007-03-23,West Indies,Port of Spain,20th Match,Sri Lanka,India,254 for 6,185,Sri Lanka,69,runs,,ICC World Cup,2006/07,Australia
+2007-03-23,West Indies,Kingston,21st Match,Ireland,West Indies,183 for 8,190 for 2,West Indies,8,wickets,D/L method,ICC World Cup,2006/07,Australia
+2007-03-24,West Indies,Gros Islet,23rd Match,Kenya,England,177,178 for 3,England,7,wickets,with 60 balls remaining,ICC World Cup,2006/07,Australia
+2007-03-24,West Indies,Basseterre,22nd Match,Australia,South Africa,377 for 6,294,Australia,83,runs,,ICC World Cup,2006/07,Australia
+2007-03-25,West Indies,Port of Spain,24th Match,Bermuda,Bangladesh,94 for 9,96 for 3,Bangladesh,7,wickets,D/L method,ICC World Cup,2006/07,Australia
+2007-03-27,West Indies,Super Eights,25th Match,Australia,West Indies,322 for 6,219,Australia,103,runs,,ICC World Cup,2006/07,Australia
+2007-03-28,West Indies,Super Eights,26th Match,Sri Lanka,South Africa,209,212 for 9,South Africa,1,wicket,with 10 balls remaining,ICC World Cup,2006/07,Australia
+2007-03-29,West Indies,Super Eights,27th Match,West Indies,New Zealand,177,179 for 3,New Zealand,7,wickets,with 64 balls remaining,ICC World Cup,2006/07,Australia
+2007-03-30,West Indies,Super Eights,28th Match,England,Ireland,266 for 7,218,England,48,runs,,ICC World Cup,2006/07,Australia
+2007-03-31,West Indies,Super Eights,29th Match,Bangladesh,Australia,104 for 6,106 for 0,Australia,10,wickets,with 49 balls remaining,ICC World Cup,2006/07,Australia
+2007-04-01,West Indies,Super Eights,30th Match,Sri Lanka,West Indies,303 for 5,190,Sri Lanka,113,runs,,ICC World Cup,2006/07,Australia
+2007-04-02,West Indies,Super Eights,31st Match,Bangladesh,New Zealand,174,178 for 1,New Zealand,9,wickets,with 124 balls remaining,ICC World Cup,2006/07,Australia
+2007-04-03,West Indies,Super Eights,32nd Match,Ireland,South Africa,152 for 8,165 for 3,South Africa,7,wickets,D/L method,ICC World Cup,2006/07,Australia
+2007-04-04,West Indies,Super Eights,33rd Match,Sri Lanka,England,235,233 for 8,Sri Lanka,2,runs,,ICC World Cup,2006/07,Australia
+2007-04-07,West Indies,Super Eights,34th Match,Bangladesh,South Africa,251 for 8,184,Bangladesh,67,runs,,ICC World Cup,2006/07,Australia
+2007-04-08,West Indies,Super Eights,35th Match,England,Australia,247,248 for 3,Australia,7,wickets,with 16 balls remaining,ICC World Cup,2006/07,Australia
+2007-04-09,West Indies,Super Eights,36th Match,New Zealand,Ireland,263 for 8,134,New Zealand,129,runs,,ICC World Cup,2006/07,Australia
+2007-04-10,West Indies,Super Eights,37th Match,South Africa,West Indies,356 for 4,289 for 9,South Africa,67,runs,,ICC World Cup,2006/07,Australia
+2007-04-11,West Indies,Super Eights,38th Match,Bangladesh,England,143,147 for 6,England,4,wickets,with 31 balls remaining,ICC World Cup,2006/07,Australia
+2007-04-12,West Indies,Super Eights,39th Match,New Zealand,Sri Lanka,219 for 7,222 for 4,Sri Lanka,6,wickets,with 29 balls remaining,ICC World Cup,2006/07,Australia
+2007-04-13,West Indies,Super Eights,40th Match,Ireland,Australia,91,92 for 1,Australia,9,wickets,with 226 balls remaining,ICC World Cup,2006/07,Australia
+2007-04-14,West Indies,Super Eights,41st Match,South Africa,New Zealand,193 for 7,196 for 5,New Zealand,5,wickets,with 10 balls remaining,ICC World Cup,2006/07,Australia
+2007-04-15,West Indies,Super Eights,42nd Match,Ireland,Bangladesh,243 for 7,169,Ireland,74,runs,,ICC World Cup,2006/07,Australia
+2007-04-16,West Indies,Super Eights,43rd Match,Sri Lanka,Australia,226,232 for 3,Australia,7,wickets,with 44 balls remaining,ICC World Cup,2006/07,Australia
+2007-04-17,West Indies,Super Eights,44th Match,England,South Africa,154,157 for 1,South Africa,9,wickets,with 184 balls remaining,ICC World Cup,2006/07,Australia
+2007-04-18,West Indies,Super Eights,45th Match,Ireland,Sri Lanka,77,81 for 2,Sri Lanka,8,wickets,with 240 balls remaining,ICC World Cup,2006/07,Australia
+2007-04-19,West Indies,Super Eights,46th Match,West Indies,Bangladesh,230 for 5,131,West Indies,99,runs,,ICC World Cup,2006/07,Australia
+2007-04-20,West Indies,Super Eights,47th Match,Australia,New Zealand,348 for 6,133,Australia,215,runs,,ICC World Cup,2006/07,Australia
+2007-04-21,West Indies,Super Eights,48th Match,West Indies,England,300,301 for 9,England,1,wicket,with 1 ball remaining,ICC World Cup,2006/07,Australia
+2007-04-24,West Indies,Kingston,1st Semi-Final,Sri Lanka,New Zealand,289 for 5,208,Sri Lanka,81,runs,,ICC World Cup,2006/07,Australia
+2007-04-25,West Indies,Gros Islet,2nd Semi-Final,South Africa,Australia,149,153 for 3,Australia,7,wickets,with 111 balls remaining,ICC World Cup,2006/07,Australia
+2007-04-28,West Indies,Bridgetown,Final,Australia,Sri Lanka,281 for 4,215 for 8,Australia,53,runs,D/L method,ICC World Cup,2006/07,Australia
